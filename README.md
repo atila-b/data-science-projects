@@ -1,3 +1,5 @@
 # Data Science Projects
-- Web Scraping + Deep Learning: https://github.com/atila-b/betUFC-model
+## Machine Learning
+- Trading Bot using classic Q Learning: https://www.kaggle.com/tilasousa/trading-bot-using-classic-q-learning
+## Data visualization
 - EDA Data Science Salaries: https://www.kaggle.com/code/tilasousa/eda-data-science-salaries/notebook
